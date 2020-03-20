@@ -1,3 +1,3 @@
 # Videep-s-searche
-Copy this repostory in your local disk
-E to get perfectly running one
+  Google search bar and few website links using basic HTML code.
+  Visit this <a href="https://videep1.github.io">link</a> to check about this repository. 
